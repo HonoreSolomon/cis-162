@@ -61,14 +61,12 @@ section h2 {
 
 section p {
   font-size: 1rem;
-  margin: 0 25%;
   color: #111827;
   line-height: 2rem;
 }
 
 section > ol {
   text-align: center;
-  margin: 0 20%;
 }
 section li {
   margin: 1.5rem 0;
@@ -105,4 +103,19 @@ footer a:link {
 
 footer a:hover {
   text-decoration: underline;
+}
+
+section img {
+  width: 70%;
+}
+
+.img-container {
+  width: 25%;
+  padding: 1rem;
+  float: left;
+}
+
+.column-1 {
+  float: left;
+  margin-left: 25rem;
 }
